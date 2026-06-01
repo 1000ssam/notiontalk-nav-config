@@ -1,0 +1,21 @@
+{
+  "name": "@notiontalk/nav-config",
+  "version": "1.0.0",
+  "description": "노션톡 사이트 네비게이션 메뉴 단일 출처 (랜딩·뉴스레터 공유)",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "license": "UNLICENSED",
+  "private": true
+}
