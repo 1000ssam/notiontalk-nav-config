@@ -5,6 +5,7 @@ export type NavKey =
   | "templates"
   | "toolkit"
   | "newsletter"
+  | "live-challenges"
   | "community"
   | "about"
   | null;

@@ -48,6 +48,11 @@ export const NAV = [
     href: "https://www.notiontalk.com/newsletter/",
   },
   {
+    key: "live-challenges",
+    label: "라이브 챌린지",
+    href: "https://www.notiontalk.com/live-challenges/",
+  },
+  {
     key: "community",
     label: "커뮤니티",
     href: "https://www.notiontalk.com/contents/community/",
